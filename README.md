@@ -1,4 +1,4 @@
-# Langkah-langkah membuat kamera hp jadi webcam
+# Membuat Aplikasi WebCam dari Python
 ## Disini saya OS Linux Ubuntu 19.10 dan menggunakan Python3 dan pip3 
 ### Buka terminal linux dengan menekan tombol Ctrl+Alt+T 
 ### 1. Instal pip3
