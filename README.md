@@ -1,7 +1,7 @@
 # Membuat Aplikasi WebCam dari Python
 ## OS yang saya Ubuntu 19.10 dan bahasa pemrograman yang saya gunakan Python3
 untuk hasilnya dapat dilihat di [RudiEdukasi](https://www.youtube.com/watch?v=juA_-6E45vs)
-### Buka terminal linux dengan menekan tombol <key>Ctrl+Alt+T</key>
+### Buka terminal linux dengan menekan tombol "Ctrl+Alt+T"
 ### 1. Instal pip3
 #### # sudo apt update
 #### # sudo apt install pip3
