@@ -1,10 +1,10 @@
 # Langkah-langkah membuat kamera hp jadi webcam
 ## Disini saya OS Linux Ubuntu 19.10 dan menggunakan Python3 dan pip3 
 ### 1. Instal pip3
-#### sudo apt update
-#### sudo apt install pip3
+#### #sudo apt update
+#### #sudo apt install pip3
 ### 2. Install OpenCV-Python 
-#### pip3 install opencv-python
+#### #pip3 install opencv-python
 # Source Code 
 ```py
 import requests
